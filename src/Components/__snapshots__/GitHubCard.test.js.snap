@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snaptshot 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <img
+    className="card-img-top"
+    src="image.png"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      Csalinas1009
+    </div>
+    <p
+      className="card-text"
+    >
+      SnapShot Test!
+    </p>
+  </div>
+</div>
+`;
